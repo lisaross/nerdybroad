@@ -1,0 +1,8 @@
+{
+  "name": "nerdybroad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lisaross/nerdybroad.git",
+  "author": "Lisa Ross <lisa@thisisbroad.com>",
+  "license": "MIT"
+}
