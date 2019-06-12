@@ -1,3 +1,3 @@
 # nerdybroad
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87a50107-03a0-4b7b-b8cf-6c2d0ba79adb/deploy-status)](https://app.netlify.com/sites/broadstack/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7aba965e-ac76-42dd-baa4-9652dcf8ee70/deploy-status)](https://app.netlify.com/sites/nerdybroad/deploys)
